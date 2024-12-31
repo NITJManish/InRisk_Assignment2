@@ -15,6 +15,7 @@ This is a Flask-based backend service that fetches historical weather data from 
 1. **Google Cloud Platform (GCP) Configuration:**
    - Set up a GCS bucket and note down the bucket name.
    - Create and download a service account key with storage access. Set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable to the path of the key file.
+![image](https://github.com/user-attachments/assets/d6eee4b0-b7d6-49a5-bd32-8284b137fe76)
 
 2. **Python Requirements:**
    - Python 3.8 or higher
